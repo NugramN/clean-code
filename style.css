@@ -12,6 +12,8 @@ body {
   text-align: right;
 }
 
+
+
 .aaa img {
   width: 100%;
 }
@@ -42,7 +44,8 @@ body {
   display: flex;
 }
 
-ul {
+#incompleteTasks,
+#completed-tasks {
   margin: 0;
   padding: 0px;
 }
